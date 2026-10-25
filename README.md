@@ -1,4 +1,4 @@
-#Genome annotation of Arabidopsis thaliana Pyl-1
+## Genome annotation of Arabidopsis thaliana Pyl-1
 
 Transposable element (TE) annotation of the Pyl-1 accession, carried out for the Genome and Transcriptome Annotation course (MSc Bioinformatics and Computational Biology, Universities of Bern and Fribourg).
 
