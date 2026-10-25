@@ -1,0 +1,14 @@
+# Large data and results stay on the cluster
+data/
+output/
+logs/
+
+# Large or generated file types, wherever they are
+*.fa
+*.fasta
+*.fai
+*.gff3
+*.gfa
+*.out
+*.sif
+*.tsv
